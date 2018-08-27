@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Routin</string>
+    <string name="heading2">ENTER OTP</string>
+    <string name="heading3">ENTER MOBILE NUMBER</string>
+    <string name="note1">You will receive an OTP after you enter your mobile number</string>
+    <string name="heading1">VERIFICATION OF PHONE NUMBER</string>
+    <string name="note2">Enter the received OTP here</string>
+    <string name="next">NEXT</string>
+    <string name="ok">ok</string>
+    <string name="confirm">CONFIRMATION USING OTP</string>
+
+
+</resources>
